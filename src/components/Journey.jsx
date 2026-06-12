@@ -12,14 +12,24 @@ const items = [
     desc: 'Learning HTML, CSS, JavaScript and React. Building projects to strengthen frontend skills and understand how the web works.',
   },
   {
-    date: '2025 — Present',
+    date: 'Jan 2026 — Present',
     title: '🐍 Python & Data Science',
     desc: 'Exploring Python for data analysis using Pandas, NumPy, Matplotlib, Seaborn, and Streamlit. Built a Retail Return Behaviour Analysis project.',
   },
   {
-    date: '2025 — Present',
+    date: 'Nov 2025 — Dec 2025',
     title: '🗂️ File System Snapshot Difference',
-    desc: 'College project that compares file system snapshots to detect changes — additions, deletions, and modifications.',
+    desc: 'Built a Python-based tool to compare file system snapshots and detect added, deleted, and modified files.',
+  },
+  {
+    date: 'Jan 2026 — May 2026',
+    title: '📊 Retail Return Behavior Analysis',
+    desc: 'Analyzing retail transaction data to identify return patterns, customer behavior, and business insights using Python and Power BI.',
+  },
+  {
+    date: '2026',
+    title: '💡 Open Source Contributions',
+    desc: 'Contributing to GitHub projects through issues, pull requests, and community programs while improving development skills.',
   },
   {
     date: '2025 — Present',
