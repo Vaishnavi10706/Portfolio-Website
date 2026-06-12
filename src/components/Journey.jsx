@@ -12,6 +12,15 @@ const items = [
     desc: 'Learning HTML, CSS, JavaScript and React. Building projects to strengthen frontend skills and understand how the web works.',
   },
   {
+    date: '2025 — Present',
+    title: '🧩 DSA Practice',
+    desc: 'Actively solving problems on LeetCode and CodeChef to build problem-solving skills and prepare for technical interviews.',
+    links: [
+      { label: 'LeetCode', url: 'https://leetcode.com/u/eiSoooTxAk/' },
+      { label: 'CodeChef', url: 'https://www.codechef.com/users/vaishnavip25' },
+    ],
+  },
+  {
     date: 'Jan 2026 — Present',
     title: '🐍 Python & Data Science',
     desc: 'Exploring Python for data analysis using Pandas, NumPy, Matplotlib, Seaborn, and Streamlit. Built a Retail Return Behaviour Analysis project.',
@@ -27,18 +36,9 @@ const items = [
     desc: 'Analyzing retail transaction data to identify return patterns, customer behavior, and business insights using Python and Power BI.',
   },
   {
-    date: '2026',
+    date: '2025 - Present',
     title: '💡 Open Source Contributions',
     desc: 'Contributing to GitHub projects through issues, pull requests, and community programs while improving development skills.',
-  },
-  {
-    date: '2025 — Present',
-    title: '🧩 DSA Practice',
-    desc: 'Actively solving problems on LeetCode and CodeChef to build problem-solving skills and prepare for technical interviews.',
-    links: [
-      { label: 'LeetCode', url: 'https://leetcode.com/u/eiSoooTxAk/' },
-      { label: 'CodeChef', url: 'https://www.codechef.com/users/vaishnavip25' },
-    ],
   },
 ]
 
