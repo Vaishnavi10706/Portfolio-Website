@@ -7,8 +7,17 @@ const categories = [
       { name: 'HTML', icon: '🌐' },
       { name: 'CSS', icon: '🎨' },
       { name: 'JavaScript', icon: '⚡' },
-      { name: 'React', icon: '⚛️' },
+      { name: 'React.js', icon: '⚛️' },
+      { name: 'Node.js' , icon: '🟢'},
+      { name: 'Express.js' , icon: '🚂'}
     ],
+  },
+  {
+    title: 'Databases',
+    skills: [
+      { name: 'MySQL', icon: '🗄️'},
+      { name: 'MongoDB', icon: '🍃'}
+    ]
   },
   {
     title: 'Python & Data',
@@ -18,6 +27,7 @@ const categories = [
       { name: 'NumPy', icon: '🔢' },
       { name: 'Matplotlib', icon: '📈' },
       { name: 'Seaborn', icon: '📊' },
+      { name: 'Scikit Learn', icon: '🤖'},
       { name: 'Streamlit', icon: '🚀' },
       { name: 'Power BI', icon: '📉' },
     ],
