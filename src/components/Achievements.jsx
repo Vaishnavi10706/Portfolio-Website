@@ -3,7 +3,7 @@ import './Achievements.css'
 const achievements = [
   {
     icon: '🏆',
-    title: '2300+ Problems on CodeChef',
+    title: '2500+ Problems on CodeChef',
     desc: 'Consistently solved problems across difficulty levels, building strong problem-solving fundamentals.',
     badge: 'CodeChef',
   },
@@ -15,9 +15,9 @@ const achievements = [
   },
   {
     icon: '🔥',
-    title: '80+ Day Coding Streak',
+    title: '100+ Day Coding Streak',
     desc: 'Maintained an 80+ day continuous coding streak on CodeChef, earning the Gold Streak Badge.',
-    badge: 'Gold Badge',
+    badge: 'Diamond Badge',
   },
   {
     icon: '🧩',
@@ -25,6 +25,12 @@ const achievements = [
     desc: 'Actively solving DSA problems on LeetCode to sharpen algorithmic thinking and interview prep.',
     badge: 'LeetCode',
   },
+  {
+  icon: '🚀',
+  title: 'Selected for GSSoC 2026',
+  desc: 'Selected as a contributor for GirlScript Summer of Code 2026, collaborating on open-source projects and contributing to real-world software development.',
+  badge: 'GSSoC 2026',
+},
 ]
 
 export default function Achievements() {
