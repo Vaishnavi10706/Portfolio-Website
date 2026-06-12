@@ -2,11 +2,11 @@ import './Projects.css'
 
 const projects = [
   {
-    icon: '🗂️',
-    name: 'File System Snapshot Difference',
-    desc: 'A tool that captures file system snapshots and compares them to detect changes — additions, deletions, and modifications — between two points in time.',
-    topics: ['Python', 'File System', 'CLI'],
-    link: 'https://github.com/Vaishnavi10706/File-System-Snapshot-Difference',
+    icon: '📊',
+    name: 'Retail Return Behaviour Analysis',
+    desc: 'Data analysis project exploring customer return patterns in retail using Python. Visualised trends with Matplotlib and Seaborn to derive actionable insights.',
+    topics: ['Python', 'Pandas', 'Seaborn', 'Matplotlib'],
+    link: 'https://github.com/Vaishnavi10706/Retail-Return-Behavior-Study',
   },
   {
     icon: '🤝',
@@ -16,11 +16,11 @@ const projects = [
     link: 'https://github.com/Vaishnavi10706/Collaborative-Project-Management-System',
   },
   {
-    icon: '📊',
-    name: 'Retail Return Behaviour Analysis',
-    desc: 'Data analysis project exploring customer return patterns in retail using Python. Visualised trends with Matplotlib and Seaborn to derive actionable insights.',
-    topics: ['Python', 'Pandas', 'Seaborn', 'Matplotlib'],
-    link: 'https://github.com/Vaishnavi10706',
+    icon: '🗂️',
+    name: 'File System Snapshot Difference',
+    desc: 'A tool that captures file system snapshots and compares them to detect changes — additions, deletions, and modifications — between two points in time.',
+    topics: ['Python', 'File System', 'CLI'],
+    link: 'https://github.com/Vaishnavi10706/File-System-Snapshot-Difference',
   },
 ]
 
