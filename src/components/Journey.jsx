@@ -21,14 +21,14 @@ const items = [
     ],
   },
   {
-    date: 'Jan 2026 — Present',
-    title: '🐍 Python & Data Science',
-    desc: 'Exploring Python for data analysis using Pandas, NumPy, Matplotlib, Seaborn, and Streamlit. Built a Retail Return Behaviour Analysis project.',
-  },
-  {
     date: 'Nov 2025 — Dec 2025',
     title: '🗂️ File System Snapshot Difference',
     desc: 'Built a Python-based tool to compare file system snapshots and detect added, deleted, and modified files.',
+  },
+  {
+    date: 'Jan 2026 — Present',
+    title: '🐍 Python & Data Science',
+    desc: 'Exploring Python for data analysis using Pandas, NumPy, Matplotlib, Seaborn, and Streamlit. Built a Retail Return Behaviour Analysis project.',
   },
   {
     date: 'Jan 2026 — May 2026',
