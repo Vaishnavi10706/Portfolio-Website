@@ -30,27 +30,31 @@ export default function About() {
             <h2>Hey, I'm <span>Vaishnavi</span> 👋</h2>
             <p>
               I'm a first-year B.Tech student in Computer Science (AI &amp; ML) at
-              <strong> Polaris School of Technology</strong>. I'm someone who genuinely
-              loves to learn and is always trying to pick up something new.
+              <strong> Polaris School of Technology</strong>, passionate about building
+              technology that solves real-world problems.
             </p>
             <p>
-              Whether it's building web apps, exploring data with Python, or grinding
-              through DSA problems — I enjoy the process of figuring things out and
-              getting better every day.
+              My interests span across full-stack development, data analytics, and
+              problem solving. I enjoy creating web applications with React, exploring
+              data using Python, and continuously improving my DSA skills through
+              coding challenges.
             </p>
             <p>
-              Right now I'm focused on strengthening my foundations in web development
-              and data science while working on real projects that challenge me.
+              Along the way, I've worked on projects such as Retail Return Behavior
+              Analysis, Collaborative Project Management System, and File System Snapshot
+              Difference. I'm also an open-source enthusiast and a selected contributor
+              for GSSoC 2026.
             </p>
-            <div className="about-tags">
-              <span className="about-tag">🎓 Polaris School of Technology</span>
-              <span className="about-tag">🤖 AI &amp; ML</span>
-              <span className="about-tag">💡 Problem Solver</span>
-              <span className="about-tag">📊 Data Enthusiast</span>
-            </div>
+          <div className="about-tags">
+            <span className="about-tag">🎓 First-Year Student</span>
+            <span className="about-tag">⚛️ React</span>
+            <span className="about-tag">📊 Data Analytics</span>
+            <span className="about-tag">🚀 GSSoC 2026</span>
+            <span className="about-tag">🧩 DSA</span>
           </div>
-        </div>
+        </div>        
       </div>
-    </section>
+    </div>
+  </section>
   )
 }
