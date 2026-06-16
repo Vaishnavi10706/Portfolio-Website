@@ -13,12 +13,13 @@ const categories = [
     ],
   },
   {
-    title: 'Databases',
-    skills: [
-      { name: 'MySQL', icon: '🗄️'},
-      { name: 'MongoDB', icon: '🍃'}
-    ]
-  },
+  title: 'Databases',
+  skills: [
+    { name: 'MySQL', icon: '🗄️' },
+    { name: 'PostgreSQL', icon: '🐘' },
+    { name: 'MongoDB', icon: '🍃' },
+  ]
+},
   {
     title: 'Python & Data',
     skills: [
