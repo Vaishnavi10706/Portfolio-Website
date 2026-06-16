@@ -116,7 +116,7 @@ I enjoy building impactful applications that solve real-world problems and conti
 - 💼 LinkedIn: www.linkedin.com/in/vaishnavii10706
 - 💻 GitHub: https://github.com/Vaishnavi10706
 - 🍽️ CodeChef: https://www.codechef.com/users/vaishnavip25
-- 🧩 LeetCode: https://leetcode.com/YOUR_USERNAME
+- 🧩 LeetCode: https://leetcode.com/u/eiSoooTxAk/
 
 ---
 
