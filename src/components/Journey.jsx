@@ -33,7 +33,7 @@ const items = [
   {
     date: 'Jan 2026 — May 2026',
     title: '📊 Retail Return Behavior Analysis',
-    desc: 'Analyzing retail transaction data to identify return patterns, customer behavior, and business insights using Python and Power BI.',
+    desc: 'Analyzing retail transaction data to identify return patterns, customer behavior, and business insights using React, Python, Flask and Power BI.',
   },
   {
     date: '2025 - Present',
