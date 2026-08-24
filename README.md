@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, achievements, certifications, and journey as a Computer Science (AI & ML) student, aspiring Software Developer, Data Analyst, and Open Source Contributor.
 
-🚀 Live Portfolio: [Portfolio Website](YOUR_PORTFOLIO_LINK)
+🚀 Live Portfolio: [Portfolio Website]([YOUR_PORTFOLIO_LINK](https://portfolio-website-ten-pi-76.vercel.app/))
 
 ---
 
@@ -45,10 +45,22 @@ I enjoy building impactful applications that solve real-world problems and conti
 - HTML5
 - CSS3
 
+### Backend
+- Node.js
+- Express.js
+- Flask
+- Go
+
+### Database
+- MongoDB
+- MYSQL
+- PostgreSQL
+
 ### Tools & Platforms
 - Git
 - GitHub
 - Vercel
+- Render
 - VS Code
 
 ---
@@ -84,10 +96,10 @@ I enjoy building impactful applications that solve real-world problems and conti
 
 - 🌟 Selected Contributor in **GirlScript Summer of Code (GSSoC) 2026**
 - 💎 CodeChef Problem Solver Diamond Badge
-- 🔥 100+ Day Coding Streak
+- 🔥 150+ Day Coding Streak
 - 🧩 Solved 2500+ Problems on CodeChef
 - 💻 Active Open Source Contributor
-- 🎯 120+ Problems Solved on LeetCode
+- 🎯 170+ Problems Solved on LeetCode
 
 ---
 
