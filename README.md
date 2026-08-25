@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, achievements, certifications, and journey as a Computer Science (AI & ML) student, aspiring Software Developer, Data Analyst, and Open Source Contributor.
 
-🚀 Live Portfolio: [Portfolio Website]([YOUR_PORTFOLIO_LINK](https://portfolio-website-ten-pi-76.vercel.app/))
-
+🚀 Live Portfolio: [Portfolio Website](https://portfolio-website-ten-pi-76.vercel.app/)
 ---
 
 ## 👩‍💻 About Me
