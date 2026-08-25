@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Vaishnavi**, a B.Tech CSE (AI & ML) student at Polaris School of Technology.
+Hi, I'm **Vaishnavi**, a B.Tech in Computer Science (AI & ML) student at Polaris School of Technology.
 
 I am passionate about:
 
@@ -54,6 +54,14 @@ I enjoy building impactful applications that solve real-world problems and conti
 - MongoDB
 - MYSQL
 - PostgreSQL
+
+### Data Science
+- Numpy
+- Pandas
+- Mathplotlib
+- Seaborn
+- Power BI
+- Tableau
 
 ### Tools & Platforms
 - Git
