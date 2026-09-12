@@ -2,7 +2,10 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, achievements, certifications, and journey as a Computer Science (AI & ML) student, aspiring Software Developer, Data Analyst, and Open Source Contributor.
 
+---
+
 🚀 Live Portfolio: [Portfolio Website](https://portfolio-website-ten-pi-76.vercel.app/)
+
 ---
 
 ## 👩‍💻 About Me
@@ -141,25 +144,25 @@ I enjoy building impactful applications that solve real-world problems and conti
 
 ## ⚙️ Installation
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/Vaishnavi10706/Portfolio-Website.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd Portfolio-Website
 ```
 
-Install dependencies:
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-Start the development server:
+4. Start the development server:
 
 ```bash
 npm run dev
