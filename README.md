@@ -4,13 +4,13 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ---
 
-🚀 Live Portfolio: [Portfolio Website](https://portfolio-website-ten-pi-76.vercel.app/)
+🚀 Live Portfolio Link: [Portfolio Website](https://portfolio-website-ten-pi-76.vercel.app/)
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Vaishnavi**, a B.Tech in Computer Science (AI & ML) student at Polaris School of Technology.
+Hi, I'm **Vaishnavi**, a Integrated B.Tech in Computer Science (AI & ML) student at Polaris School of Technology.
 
 I am passionate about:
 
