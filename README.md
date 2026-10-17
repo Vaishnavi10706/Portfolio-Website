@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ---
 
-🚀 Live Portfolio Link: [Portfolio Website](https://portfolio-website-ten-pi-76.vercel.app/)
+🚀 **Live Portfolio Link:** [Portfolio Website](https://portfolio-website-ten-pi-76.vercel.app/)
 
 ---
 
@@ -65,6 +65,7 @@ I enjoy building impactful applications that solve real-world problems and conti
 - Seaborn
 - Power BI
 - Tableau
+- Machine Learning
 
 ### Tools & Platforms
 - Git
